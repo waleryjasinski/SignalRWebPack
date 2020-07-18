@@ -3,3 +3,4 @@ code -r SignalRWebPack
 
 dotnet add package Microsoft.TypeScript.MSBuild
 
+npm init -y
